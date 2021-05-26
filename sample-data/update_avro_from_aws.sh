@@ -23,7 +23,7 @@ do
       payloadpath=$(aws s3 ls "${bucket}${prefix}${path}${prev_date}/" --recursive | sort | tail -n 1 | awk '{print $4}')
       if [[ $payloadpath == "" ]]; then
         echo "ERROR: Couldn't find data in ${prev_date} either. Skipping!"
- 	      continue
+        continue
       fi
     fi
     aws s3 cp s3://${bucket}${payloadpath} Avro/${event_type}.avro
