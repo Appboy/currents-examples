@@ -16,7 +16,7 @@ for path in $(aws s3 ls ${bucket}${prefix});
 do
   if [[ $path != "" ]] && [[ $path != "PRE" ]]; then
     if [[ $path = "users"* ]]; then
-      event_type=$(echo $path | sed 's/users.//g;s/\///g')
+      event_type=$(echo $path | sed 's/*//g;s/\///g')
       payloadpath=$(aws s3 ls "${bucket}${prefix}${path}${date}/" --recursive | sort | tail -n 1 | awk '{print $4}')
       if [[ $payloadpath == "" ]]; then
         echo "WARNING: Looks like we can't find anything for the current date ${date} in path ${path}, check the hour before."
