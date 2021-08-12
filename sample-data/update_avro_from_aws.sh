@@ -15,8 +15,8 @@ echo "INFO: Checking for avro schemas from ${date} in ${bucket}"
 for path in $(aws s3 ls ${bucket}${prefix});
 do
   if [[ $path != "" ]] && [[ $path != "PRE" ]]; then
-    if [[ $path = "users"* ]]; then
-      event_type=$(echo $path | sed 's/*//g;s/\///g')
+    if [[ $path = "event_type=users"* ]]; then
+      event_type=$(echo $path | sed 's/event_type=*//g;s/\///g')
       payloadpath=$(aws s3 ls "${bucket}${prefix}${path}${date}/" --recursive | sort | tail -n 1 | awk '{print $4}')
       if [[ $payloadpath == "" ]]; then
         echo "WARNING: Looks like we can't find anything for the current date ${date} in path ${path}, check the hour before."
