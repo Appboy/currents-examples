@@ -1,0 +1,7 @@
+# JetBrains IDEs
+.idea/
+currents-examples.iml
+
+# vim
+*.swp
+
