@@ -5,7 +5,7 @@
 dest=$1
 bearer=$2
 
-if [[ -n ${dest} ]]; then
+if [[ ! -n ${dest} ]]; then
     echo "Usage: $0 URL [Bearer Token]"
     exit 1
 fi

@@ -21,6 +21,6 @@ curl \
     -X POST \
     -H 'Content-Type:application/json' \
      ${auth_header} \
-    -d `cat ${sample_file}` \
+    -d "`cat ${sample_file}`" \
     ${dest}
 
