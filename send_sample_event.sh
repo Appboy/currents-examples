@@ -9,7 +9,7 @@ if [[ -n "$bearer" ]]; then
     auth_header="-H 'Authorization: Bearer ${bearer}'"
 fi
 
-echo curl \
+curl \
     -X POST \
     -H 'Content-Type:application/json' \
      ${auth_header} \
