@@ -1,0 +1,25 @@
+{
+  "event_type": "users.messages.email.Bounce",
+  "id": "a1234567-89ab-cdef-0123-456789abcdef",
+  "time": 1477502783,
+  "user": {
+    "user_id": "0123456789abcdef01234567",
+    "external_user_id": "user_id",
+    "timezone": "America/Chicago"
+  },
+  "properties": {
+    "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+    "campaign_name": "Test Campaign",
+    "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+    "message_variation_name": "Test Message Variation",
+    "send_id": "f123456789abcdef01234567",
+    "dispatch_id": "12345qwert",
+    "email_address": "test@test.com",
+    "sending_ip": "206.252.203.38",
+    "ip_pool": "braze_transactional",
+    "esp": "sparkgrid",
+    "from_domain": "some.com",
+    "is_drop": true,
+    "bounce_reason": "550 Access denied...598eb32e3f2e5f5f1e7ecf3f379fef13be5e072a975fc74f7a731ec773ea9eca6fe3232b9b8f4ebf3b374a3ecf3f..."
+  }
+}

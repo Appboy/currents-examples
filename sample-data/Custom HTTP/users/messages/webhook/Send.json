@@ -1,0 +1,24 @@
+{
+  "event_type": "users.messages.webhook.Send",
+  "id": "a1234567-89ab-cdef-0123-456789abcdef",
+  "time": 1477502783,
+  "user": {
+    "user_id": "0123456789abcdef01234567",
+    "external_user_id": "user_id",
+    "timezone": "America/Chicago"
+  },
+  "properties": {
+    "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+    "campaign_name": "Test Campaign",
+    "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+    "message_variation_name": "Test Message Variation",
+    "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+    "canvas_name": "Test Canvas",
+    "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+    "canvas_variation_name": "Test Canvas Variation Name",
+    "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+    "canvas_step_name": "Test Canvas Step Name",
+    "send_id": "f123456789abcdef01234567",
+    "message_extras": "{\"abc\":\"test\"}"
+  }
+}
