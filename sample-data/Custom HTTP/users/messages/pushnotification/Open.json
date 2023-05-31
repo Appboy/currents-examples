@@ -1,0 +1,34 @@
+{
+  "event_type": "users.messages.pushnotification.Open",
+  "id": "a1234567-89ab-cdef-0123-456789abcdef",
+  "time": 1477502783,
+  "user": {
+    "user_id": "0123456789abcdef01234567",
+    "external_user_id": "user_id",
+    "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+    "timezone": "America/Chicago"
+  },
+  "properties": {
+    "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+    "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+    "campaign_name": "Test Campaign",
+    "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+    "message_variation_name": "Test Message Variation",
+    "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+    "canvas_name": "Test Canvas",
+    "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+    "canvas_variation_name": "Test Canvas Variation Name",
+    "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+    "canvas_step_name": "Test Canvas Step Name",
+    "platform": "android",
+    "os_version": "Android (Lollipop)",
+    "device_model": "Alba 10\"",
+    "send_id": "f123456789abcdef01234567",
+    "dispatch_id": "01234567-89ab-cdef-0123-456789abcdef",
+    "button_action_type": "OPEN",
+    "button_string": "button_string_value",
+    "ad_id": "a1234567-89ab-cdef-0123-456789abcdef",
+    "ad_id_type": "google_ad_id",
+    "ad_tracking_enabled": true
+  }
+}

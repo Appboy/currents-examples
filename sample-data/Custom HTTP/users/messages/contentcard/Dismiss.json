@@ -1,0 +1,33 @@
+{
+  "event_type": "users.messages.contentcard.Dismiss",
+  "id": "a1234567-89ab-cdef-0123-456789abcdef",
+  "time": 1477502783,
+  "user": {
+    "user_id": "0123456789abcdef01234567",
+    "external_user_id": "user_id",
+    "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+    "timezone": "America/Chicago"
+  },
+  "properties": {
+    "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+    "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+    "campaign_name": "Test Campaign",
+    "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+    "message_variation_name": "Test Message Variation",
+    "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+    "canvas_name": "Test Canvas",
+    "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+    "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+    "canvas_variation_name": "Test Canvas Variation Name",
+    "canvas_step_name": "Test Canvas Step Name",
+    "content_card_id": "9123456789abcdef01234567",
+    "platform": "ios",
+    "os_version": "iOS 10.3.1",
+    "device_model": "iPhone 7 Plus",
+    "dispatch_id": "farfrafargtagragr",
+    "send_id": "f123456789abcdef01234567",
+    "ad_id": "cdef0123-4567-89ab-cdef-0123456789ab",
+    "ad_id_type": "google_ad_id",
+    "ad_tracking_enabled": true
+  }
+}

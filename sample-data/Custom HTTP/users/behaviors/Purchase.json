@@ -1,0 +1,32 @@
+{
+  "event_type": "users.behaviors.Purchase",
+  "id": "a1234567-89ab-cdef-0123-456789abcdef",
+  "time": 1477502783,
+  "user": {
+    "user_id": "0123456789abcdef01234567",
+    "external_user_id": "user_id",
+    "device_id": "fedcba87-6543-210f-fedc-ba9876543210"
+  },
+  "properties": {
+    "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+    "platform": "ios",
+    "os_version": "iOS 10.3.1",
+    "device_model": "iPhone 7 Plus",
+    "product_id": "1234",
+    "price": 12.34,
+    "currency": "AED",
+    "purchase_properties": {
+      "string_property": "b",
+      "number_property": 2,
+      "boolean_property": true,
+      "list_property": [
+        "c",
+        "c"
+      ],
+      "null_property": null
+    },
+    "ad_id": "3456789abcde-f012-3456-789a-bcdef0121234",
+    "ad_id_type": "google_ad_id",
+    "ad_tracking_enabled": true
+  }
+}
