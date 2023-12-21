@@ -1,0 +1,1061 @@
+[
+    {
+        "event_type": "users.messages.webhook.Send",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "send_id": "f123456789abcdef01234567",
+            "message_extras": "{\"abc\":\"test\"}"
+        }
+    },
+    {
+        "event_type": "users.messages.webhook.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "send_id": "f123456789abcdef01234567",
+            "abort_type": "abort_type_value",
+            "abort_log": "abort_log_value"
+        }
+    },
+    {
+        "event_type": "users.messages.contentcard.Impression",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "content_card_id": "9123456789abcdef01234567",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "dispatch_id": "farfrafargtagragr",
+            "send_id": "f123456789abcdef01234567",
+            "ad_id": "cdef0123-4567-89ab-cdef-0123456789ab",
+            "ad_id_type": "windows_ad_id",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.messages.contentcard.Click",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "content_card_id": "9123456789abcdef01234567",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "dispatch_id": "farfrafargtagragr",
+            "send_id": "f123456789abcdef01234567",
+            "ad_id": "def01234-5678-9abc-def0-123456789abc",
+            "ad_id_type": "ios_idfa",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.messages.contentcard.Send",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "content_card_id": "9123456789abcdef01234567",
+            "dispatch_id": "farfrafargtagragr",
+            "send_id": "f123456789abcdef01234567",
+            "message_extras": "{\"abc\":\"test\"}"
+        }
+    },
+    {
+        "event_type": "users.messages.contentcard.Dismiss",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "content_card_id": "9123456789abcdef01234567",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "dispatch_id": "farfrafargtagragr",
+            "send_id": "f123456789abcdef01234567",
+            "ad_id": "cdef0123-4567-89ab-cdef-0123456789ab",
+            "ad_id_type": "google_ad_id",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.messages.contentcard.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "dispatch_id": "farfrafargtagragr",
+            "send_id": "f123456789abcdef01234567",
+            "abort_log": "abort_log_value",
+            "abort_type": "abort_type_value"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.CarrierSend",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "to_phone_number": "+16462345678",
+            "from_phone_number": "+12123470922",
+            "subscription_group_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "dispatch_id": "12345qwert"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.Delivery",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "to_phone_number": "+16462345678",
+            "from_phone_number": "+12123470922",
+            "subscription_group_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "dispatch_id": "12345qwert"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.ShortLinkClick",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "b93d73d1-624c-42e2-9ad9-0395d2d6bacf",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "url": "https://www.example.com/is/way/too/long/dont/you/think/it/should/be/shorter/i/sure/do",
+            "short_url": "https://www.brz.ai/abcdef",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+            "user_phone_number": "+16462345678"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.Rejection",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "to_phone_number": "+16462345678",
+            "from_phone_number": "+12123470922",
+            "error": "Rejection",
+            "provider_error_code": "30007",
+            "subscription_group_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "send_id": "send_id",
+            "dispatch_id": "12345qwert"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.Send",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "to_phone_number": "+16462345678",
+            "subscription_group_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "dispatch_id": "12345qwert",
+            "category": "Opt-in",
+            "message_extras": "{\"abc\":\"test\"}"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.InboundReceive",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "my-external-user-id"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "user_phone_number": "+12125551212",
+            "inbound_phone_number": "+12122223333",
+            "subscription_group_id": "11234567-89ab-cdef-0123-456789abcdef-api",
+            "action": "Subscribed",
+            "message_body": "START I love your brand!!!",
+            "media_urls": [
+                "https://api.twilio.com/2010-04-01/Accounts/ACdf8fed53dc700560ed78aac5e1eeec77/Messages/MM5b988d85d68d6565f4ecea9702a2436e/Media/MEa25d638a12f1a7daf21851dcbcf9b39b"
+            ]
+        }
+    },
+    {
+        "event_type": "users.messages.sms.DeliveryFailure",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "to_phone_number": "+16462345678",
+            "error": "DeliveryFailure",
+            "provider_error_code": "30001",
+            "subscription_group_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "dispatch_id": "12345qwert"
+        }
+    },
+    {
+        "event_type": "users.messages.sms.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "subscription_group_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "abort_type": "abort_type_value",
+            "abort_log": "abort_log_value"
+        }
+    },
+    {
+        "event_type": "users.messages.newsfeedcard.Impression",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "card_id": "51234567-89ab-cdef-0123-456789abcdef",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus"
+        }
+    },
+    {
+        "event_type": "users.messages.newsfeedcard.Click",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "card_id": "51234567-89ab-cdef-0123-456789abcdef",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus"
+        }
+    },
+    {
+        "event_type": "users.messages.newsfeedcard.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "card_id": "51234567-89ab-cdef-0123-456789abcdef",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "abort_type": "abort_type_value",
+            "abort_log": "abort_log_value"
+        }
+    },
+    {
+        "event_type": "users.messages.inappmessage.Impression",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "card_id": "9123456789abcdef01234567",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "send_id": "f123456789abcdef01234567",
+            "ad_id": "12345678-9abc-def0-1234-56789abcdef0",
+            "ad_id_type": "windows_ad_id",
+            "ad_tracking_enabled": false
+        }
+    },
+    {
+        "event_type": "users.messages.inappmessage.Click",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "card_id": "9123456789abcdef01234567",
+            "platform": "android",
+            "os_version": "Android (N)",
+            "device_model": "Nexus 5X",
+            "button_id": "0",
+            "send_id": "f123456789abcdef01234567",
+            "ad_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "ad_id_type": "roku_ad_id",
+            "ad_tracking_enabled": false
+        }
+    },
+    {
+        "event_type": "users.messages.inappmessage.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_name": "Test Canvas Step Name",
+            "card_id": "9123456789abcdef01234567",
+            "platform": "android",
+            "os_version": "Android (N)",
+            "device_model": "Nexus 5X",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "farfrafargtagragr",
+            "ad_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "ad_id_type": "roku_ad_id",
+            "ad_tracking_enabled": false,
+            "abort_type": "abort_type_value",
+            "abort_log": "abort_log_value"
+        }
+    },
+    {
+        "event_type": "users.messages.pushnotification.Open",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "platform": "android",
+            "os_version": "Android (Lollipop)",
+            "device_model": "Alba 10\"",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "button_action_type": "OPEN",
+            "button_string": "button_string_value",
+            "ad_id": "a1234567-89ab-cdef-0123-456789abcdef",
+            "ad_id_type": "google_ad_id",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.messages.pushnotification.IosForeground",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "platform": "ios",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "ad_id": "aedcba87-6543-210f-fedc-ba9876543210",
+            "ad_id_type": "ios_idfa",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.messages.pushnotification.Send",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "platform": "ios",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "ad_id": "aedcba87-6543-210f-fedc-ba9876543210",
+            "ad_id_type": "ios_idfa",
+            "ad_tracking_enabled": true,
+            "message_extras": "{\"abc\":\"test\"}"
+        }
+    },
+    {
+        "event_type": "users.messages.pushnotification.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "platform": "android",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "abort_type": "abort_type_value",
+            "abort_log": "abort_log_value"
+        }
+    },
+    {
+        "event_type": "users.messages.pushnotification.Bounce",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "platform": "ios",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "ad_id": "a1234567-89ab-cdef-0123-456789abcdef",
+            "ad_id_type": "ios_idfa",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.messages.email.Open",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+            "ip_pool": "braze_transactional",
+            "machine_open": "true",
+            "esp": "sparkgrid",
+            "from_domain": "some.com",
+            "is_amp": false
+        }
+    },
+    {
+        "event_type": "users.messages.email.Delivery",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "sending_ip": "206.252.203.38",
+            "ip_pool": "braze_transactional",
+            "esp": "sparkgrid",
+            "from_domain": "some.com"
+        }
+    },
+    {
+        "event_type": "users.messages.email.Click",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "url": "https://www.google.com/",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+            "ip_pool": "braze_transactional",
+            "link_id": "7recnalw8xjr",
+            "link_alias": "google_link",
+            "esp": "sparkgrid",
+            "from_domain": "some.com",
+            "is_amp": false
+        }
+    },
+    {
+        "event_type": "users.messages.email.Send",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "ip_pool": "braze_transactional",
+            "message_extras": "{\"abc\":\"test\"}"
+        }
+    },
+    {
+        "event_type": "users.messages.email.MarkAsSpam",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+            "ip_pool": "braze_transactional",
+            "esp": "sparkgrid",
+            "from_domain": "some.com"
+        }
+    },
+    {
+        "event_type": "users.messages.email.Abort",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_group_id": "abcdef01-2345-6789-abcd-ef0123456789",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "farfrafargtagragr",
+            "email_address": "test@test.com",
+            "ip_pool": "braze_transactional",
+            "abort_type": "abort_type_value",
+            "abort_log": "abort_log_value"
+        }
+    },
+    {
+        "event_type": "users.messages.email.Unsubscribe",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "ip_pool": "braze_transactional"
+        }
+    },
+    {
+        "event_type": "users.messages.email.SoftBounce",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "sending_ip": "206.252.203.38",
+            "ip_pool": "braze_transactional",
+            "bounce_reason": "450 4.2.2 <test@test.com>: user is overquota",
+            "esp": "sparkgrid",
+            "from_domain": "some.com"
+        }
+    },
+    {
+        "event_type": "users.messages.email.Bounce",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "dispatch_id": "12345qwert",
+            "email_address": "test@test.com",
+            "sending_ip": "206.252.203.38",
+            "ip_pool": "braze_transactional",
+            "esp": "sparkgrid",
+            "from_domain": "some.com",
+            "is_drop": true,
+            "bounce_reason": "550 Access denied...598eb32e3f2e5f5f1e7ecf3f379fef13be5e072a975fc74f7a731ec773ea9eca6fe3232b9b8f4ebf3b374a3ecf3f..."
+        }
+    },
+    {
+        "event_type": "users.canvas.Entry",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "in_control_group": false
+        }
+    },
+    {
+        "event_type": "users.canvas.Conversion",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "canvas_id": "21234567-89ab-cdef-0123-456789abcdef",
+            "canvas_name": "Test Canvas",
+            "canvas_variation_id": "31234567-89ab-cdef-0123-456789abcdef",
+            "canvas_variation_name": "Test Canvas Variation Name",
+            "canvas_step_id": "41234567-89ab-cdef-0123-456789abcdef",
+            "canvas_step_name": "Test Canvas Step Name",
+            "conversion_behavior_index": 1,
+            "conversion_behavior": "{\"type\":\"Performs Custom Events\",\"window\":3600,\"custom_event_name\":\"Test Custom Event\"}"
+        }
+    },
+    {
+        "event_type": "users.behaviors.Location",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "latitude": 1.2,
+            "longitude": 3.4,
+            "altitude": 5.6,
+            "ll_accuracy": 7.8,
+            "alt_accuracy": 0.9,
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "ad_id": "3456789abcde-f012-3456-789a-bcdef0121234",
+            "ad_id_type": "google_ad_id",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.behaviors.InstallAttribution",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id"
+        },
+        "properties": {
+            "source": "source name"
+        }
+    },
+    {
+        "event_type": "users.behaviors.Uninstall",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef"
+        }
+    },
+    {
+        "event_type": "users.behaviors.CustomEvent",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "name": "custom event name",
+            "ad_id": "3456789abcde-f012-3456-789a-bcdef0121234",
+            "ad_id_type": "google_ad_id",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.behaviors.Purchase",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "device_id": "fedcba87-6543-210f-fedc-ba9876543210"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "platform": "ios",
+            "os_version": "iOS 10.3.1",
+            "device_model": "iPhone 7 Plus",
+            "product_id": "1234",
+            "price": 12.34,
+            "currency": "AED",
+            "ad_id": "3456789abcde-f012-3456-789a-bcdef0121234",
+            "ad_id_type": "google_ad_id",
+            "ad_tracking_enabled": true
+        }
+    },
+    {
+        "event_type": "users.campaigns.EnrollInControl",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567"
+        }
+    },
+    {
+        "event_type": "users.campaigns.Conversion",
+        "id": "a1234567-89ab-cdef-0123-456789abcdef",
+        "time": 1477502783,
+        "user": {
+            "user_id": "0123456789abcdef01234567",
+            "external_user_id": "user_id",
+            "timezone": "America/Chicago"
+        },
+        "properties": {
+            "app_id": "01234567-89ab-cdef-0123-456789abcdef",
+            "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
+            "campaign_name": "Test Campaign",
+            "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
+            "message_variation_name": "Test Message Variation",
+            "send_id": "f123456789abcdef01234567",
+            "conversion_behavior_index": 1,
+            "conversion_behavior": "{\"type\":\"Performs Custom Events\",\"window\":3600,\"custom_event_name\":\"Test Custom Event\"}"
+        }
+    }
+]
