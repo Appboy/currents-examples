@@ -6,7 +6,7 @@ if [ "$#" -ne 2 ]; then
   exit 1
 fi
 
-date="date=2024-04-02-15"
+date="date=$(date -u '+%Y-%m-%d-%H')"
 bucket=$1
 prefix=$2
 
