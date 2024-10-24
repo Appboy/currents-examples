@@ -1,1 +1,81 @@
-{"id":"5f400c2e-1dca-4e79-8695-e7c0f95e3b39","user_id":"0123456789abcdef01234567","external_user_id":{"string":"e5af829e-dde2-4060-9695-5466a395e774"},"time":1712070383,"timezone":{"string":"America/Chicago"},"app_id":"01234567-89ab-cdef-0123-456789abcdef","campaign_id":{"string":"e28c1a0b-b235-440f-a8c5-6397f6c974c7-filler-events"},"campaign_name":{"string":"Test Campaign 11234567-89ab-cdef-0123-456789abcdef"},"message_variation_id":{"string":"c1234567-89ab-cdef-0123-456789abcdef"},"message_variation_name":{"string":"Test Message Variation"},"canvas_id":{"string":"21234567-89ab-cdef-0123-456789abcdef"},"canvas_name":{"string":"Test Canvas 21234567-89ab-cdef-0123-456789abcdef"},"canvas_variation_id":{"string":"31234567-89ab-cdef-0123-456789abcdef"},"canvas_variation_name":{"string":"Test Canvas Variation Name 1115597884"},"canvas_step_id":{"string":"41234567-89ab-cdef-0123-456789abcdef"},"canvas_step_name":{"string":"Test Canvas Step Name 41234567-89ab-cdef-0123-456789abcdef"},"canvas_step_message_variation_id":{"string":"d1234567-89ab-cdef-0123-456789abcdef"},"platform":{"string":"android"},"os_version":{"string":"staging"},"device_model":{"string":"Alba 10\""},"send_id":{"string":"f123456789abcdef01234567"},"dispatch_id":{"string":"01234567-89ab-cdef-0123-456789abcdef"},"device_id":{"string":"6adac1fd-1d11-3768-8707-b8f8199e714c"},"button_action_type":{"string":"OPEN"},"button_string":{"string":"button_string_value"},"ad_id":{"string":"a1234567-89ab-cdef-0123-456789abcdef"},"ad_id_type":{"string":"google_ad_id"},"ad_tracking_enabled":{"boolean":true}}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "time" : 2033802504,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  },
+  "canvas_step_message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "platform" : {
+    "string" : "android"
+  },
+  "os_version" : {
+    "string" : "17.6.1"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "send_id" : {
+    "string" : "send_id"
+  },
+  "dispatch_id" : {
+    "string" : "639a35d192b0df004d06514c"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "button_action_type" : {
+    "string" : "uri"
+  },
+  "button_string" : {
+    "string" : "button_string"
+  },
+  "ad_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "ad_id_type" : {
+    "string" : "ios_idfa"
+  },
+  "ad_tracking_enabled" : {
+    "boolean" : true
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

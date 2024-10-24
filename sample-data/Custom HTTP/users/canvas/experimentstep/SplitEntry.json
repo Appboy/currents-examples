@@ -1,0 +1,21 @@
+{
+  "event_type" : "users.canvas.experimentstep.SplitEntry",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "canvas_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_name" : "CANVAS_NAME",
+    "canvas_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_step_name" : "CANVAS_STEP_NAME",
+    "canvas_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_variation_name" : "CANVAS_VARIATION_NAME",
+    "experiment_split_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "experiment_split_name" : "EXPERIMENT_SPLIT_NAME",
+    "experiment_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "in_control_group" : true
+  },
+  "time" : 2033802504,
+  "user" : {
+    "external_user_id" : "external_user_id",
+    "user_id" : "639a35d192b0df004d06514c"
+  }
+}

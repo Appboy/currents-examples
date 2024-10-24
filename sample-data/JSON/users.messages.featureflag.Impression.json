@@ -1,0 +1,86 @@
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "app_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "feature_flag_id_name" : {
+    "string" : "feature_flag_id_name"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "time" : 2033802504,
+  "gender" : {
+    "string" : "M"
+  },
+  "browser" : {
+    "string" : "Chrome Mobile iOS"
+  },
+  "carrier" : {
+    "string" : "carrier"
+  },
+  "country" : {
+    "string" : "country"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "language" : {
+    "string" : "en"
+  },
+  "os_version" : {
+    "string" : "17.6.1"
+  },
+  "platform" : {
+    "string" : "android"
+  },
+  "resolution" : {
+    "string" : "resolution"
+  },
+  "sdk_version" : {
+    "string" : "sdk_version"
+  },
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "user_id" : "639a35d192b0df004d06514c",
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  }
+}

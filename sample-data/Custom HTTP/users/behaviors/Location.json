@@ -1,24 +1,25 @@
 {
-  "event_type": "users.behaviors.Location",
-  "id": "a1234567-89ab-cdef-0123-456789abcdef",
-  "time": 1477502783,
-  "user": {
-    "user_id": "0123456789abcdef01234567",
-    "external_user_id": "user_id",
-    "device_id": "fedcba87-6543-210f-fedc-ba9876543210"
+  "event_type" : "users.behaviors.Location",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "ad_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "ad_id_type" : "ios_idfa",
+    "ad_tracking_enabled" : true,
+    "alt_accuracy" : 3.14,
+    "altitude" : 3.14,
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "device_model" : "device_model",
+    "latitude" : 3.14,
+    "ll_accuracy" : 3.14,
+    "longitude" : 3.14,
+    "os_version" : "17.6.1",
+    "platform" : "android"
   },
-  "properties": {
-    "app_id": "01234567-89ab-cdef-0123-456789abcdef",
-    "latitude": 1.2,
-    "longitude": 3.4,
-    "altitude": 5.6,
-    "ll_accuracy": 7.8,
-    "alt_accuracy": 0.9,
-    "platform": "ios",
-    "os_version": "iOS 10.3.1",
-    "device_model": "iPhone 7 Plus",
-    "ad_id": "3456789abcde-f012-3456-789a-bcdef0121234",
-    "ad_id_type": "google_ad_id",
-    "ad_tracking_enabled": true
+  "time" : 2033802504,
+  "user" : {
+    "device_id" : "device_id",
+    "external_user_id" : "external_user_id",
+    "user_id" : "639a35d192b0df004d06514c"
   }
 }

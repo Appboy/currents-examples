@@ -1,1 +1,25 @@
-{"id":"145d1cd4-ed64-4316-a702-66ac972980a8","user_id":"0123456789abcdef01234567","external_user_id":{"string":"e5af829e-dde2-4060-9695-5466a395e774"},"app_id":"e28c1a0b-b235-440f-a8c5-6397f6c974c7-filler-events","time":1712070383,"session_id":"b1234567-89ab-cdef-0123-456789abcdef","platform":{"string":"ios"},"os_version":{"string":"staging"},"device_model":{"string":"iPhone 7 Plus"},"device_id":{"string":"6adac1fd-1d11-3768-8707-b8f8199e714c"}}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "session_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "platform" : {
+    "string" : "android"
+  },
+  "os_version" : {
+    "string" : "17.6.1"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

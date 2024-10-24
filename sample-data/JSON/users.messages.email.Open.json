@@ -1,1 +1,84 @@
-{"id":"138d6fbb-f026-4a65-bc94-52c470b769d6","user_id":"0123456789abcdef01234567","dispatch_id":{"string":"12345qwert"},"external_user_id":{"string":"e5af829e-dde2-4060-9695-5466a395e774"},"time":1712070383,"timezone":{"string":"America/Chicago"},"campaign_id":{"string":"e28c1a0b-b235-440f-a8c5-6397f6c974c7-filler-events"},"campaign_name":{"string":"Test Campaign 11234567-89ab-cdef-0123-456789abcdef"},"message_variation_id":{"string":"c1234567-89ab-cdef-0123-456789abcdef"},"message_variation_name":{"string":"Test Message Variation"},"email_address":"test@test.com","canvas_id":null,"canvas_name":null,"canvas_variation_id":null,"canvas_variation_name":null,"canvas_step_id":null,"canvas_step_name":null,"send_id":{"string":"f123456789abcdef01234567"},"user_agent":{"string":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"},"ip_pool":{"string":"braze_transactional"},"machine_open":{"string":"true"},"esp":{"string":"sparkgrid"},"from_domain":{"string":"some.com"},"is_amp":{"boolean":false},"device_class":{"string":"device_class_value"},"device_os":{"string":"device_os_value"},"device_model":{"string":"device_model_value"},"browser":{"string":"browser_value"},"mailbox_provider":{"string":"mailbox_provider_value"}}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "dispatch_id" : {
+    "string" : "639a35d192b0df004d06514c"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "time" : 2033802504,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  },
+  "email_address" : "example@braze.com",
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  },
+  "send_id" : {
+    "string" : "send_id"
+  },
+  "user_agent" : {
+    "string" : "Mozilla/5.0"
+  },
+  "ip_pool" : {
+    "string" : "ip_pool"
+  },
+  "machine_open" : {
+    "string" : "true"
+  },
+  "esp" : {
+    "string" : "SendGrid"
+  },
+  "from_domain" : {
+    "string" : "braze.com"
+  },
+  "is_amp" : {
+    "boolean" : true
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "device_class" : {
+    "string" : "desktop"
+  },
+  "device_os" : {
+    "string" : "Android"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "browser" : {
+    "string" : "Chrome Mobile iOS"
+  },
+  "mailbox_provider" : {
+    "string" : "mailbox_provider"
+  }
+}
