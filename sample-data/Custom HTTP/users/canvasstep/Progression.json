@@ -1,0 +1,24 @@
+{
+  "event_type" : "users.canvasstep.Progression",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_entry_id" : "canvas_entry_id",
+    "canvas_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_name" : "CANVAS_NAME",
+    "canvas_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_step_name" : "CANVAS_STEP_NAME",
+    "canvas_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_variation_name" : "CANVAS_VARIATION_NAME",
+    "exit_reason" : "exit_reason",
+    "is_canvas_entry" : true,
+    "next_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "progression_type" : "progression_type"
+  },
+  "time" : 2033802504,
+  "user" : {
+    "device_id" : "device_id",
+    "external_user_id" : "external_user_id",
+    "user_id" : "639a35d192b0df004d06514c"
+  }
+}

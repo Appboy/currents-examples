@@ -1,1 +1,62 @@
-{"id":"d0c59f8e-f1ab-4677-a223-7a324fcc900d","user_id":"0123456789abcdef01234567","dispatch_id":{"string":"12345qwert"},"external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"time":1689191227,"timezone":{"string":"America/Chicago"},"campaign_id":{"string":"87f09748-9dd6-45a1-a327-8653b77ebbe8"},"campaign_name":{"string":"Test Campaign 11234567-89ab-cdef-0123-456789abcdef"},"message_variation_id":{"string":"c1234567-89ab-cdef-0123-456789abcdef"},"message_variation_name":{"string":"Test Message Variation"},"to_phone_number":{"string":"+16462345678"},"subscription_group_id":{"string":"41234567-89ab-cdef-0123-456789abcdef"},"canvas_id":null,"canvas_name":null,"canvas_variation_id":null,"canvas_variation_name":null,"canvas_step_id":null,"canvas_step_name":null,"send_id":null,"category":{"string":"Opt-in"},"message_extras":{"string":"{\"abc\":\"test\"}"}}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "dispatch_id" : {
+    "string" : "639a35d192b0df004d06514c"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "time" : 2033802504,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  },
+  "to_phone_number" : {
+    "string" : "+1234567890"
+  },
+  "subscription_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  },
+  "send_id" : {
+    "string" : "send_id"
+  },
+  "category" : {
+    "string" : "opt-in"
+  },
+  "message_extras" : {
+    "string" : "message_extras"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

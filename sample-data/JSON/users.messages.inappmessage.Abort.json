@@ -1,1 +1,96 @@
-{"abort_log":{"string":"87f09748-9dd6-45a1-a327-8653b77ebbe8"},"abort_type":{"string":"rate_limit"},"ad_id":{"string":"01234567-89ab-cdef-0123-456789abcdef"},"ad_id_type":{"string":"roku_ad_id"},"ad_tracking_enabled":{"boolean":false},"app_group_id":{"string":"abcdef01-2345-6789-abcd-ef0123456789"},"app_id":{"string":"01234567-89ab-cdef-0123-456789abcdef"},"browser":{"string":"browser_value"},"campaign_id":{"string":"11234567-89ab-cdef-0123-456789abcdef"},"campaign_name":{"string":"Test Campaign 11234567-89ab-cdef-0123-456789abcdef"},"canvas_id":{"string":"87f09748-9dd6-45a1-a327-8653b77ebbe8"},"canvas_name":{"string":"Test Canvas 21234567-89ab-cdef-0123-456789abcdef"},"canvas_step_id":{"string":"41234567-89ab-cdef-0123-456789abcdef"},"canvas_step_message_variation_id":{"string":"d1234567-89ab-cdef-0123-456789abcdef"},"canvas_step_name":{"string":"Test Canvas Step Name 41234567-89ab-cdef-0123-456789abcdef"},"canvas_variation_id":{"string":"31234567-89ab-cdef-0123-456789abcdef"},"canvas_variation_name":{"string":"Test Canvas Variation Name 1115597884"},"card_id":{"string":"51234567-89ab-cdef-0123-456789abcdef"},"carrier":{"string":"carrier_value"},"device_id":{"string":"b90e2565-12c5-3837-a1e2-d5245d311108"},"device_model":{"string":"Nexus 5X"},"dispatch_id":{"string":"farfrafargtagragr"},"external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"id":"57c798d8-a771-418f-9656-eb8668166d0f","message_variation_id":{"string":"c1234567-89ab-cdef-0123-456789abcdef"},"message_variation_name":{"string":"Test Message Variation"},"os_version":{"string":"staging"},"platform":{"string":"android"},"resolution":{"string":"resolution_value"},"send_id":{"string":"f123456789abcdef01234567"},"time":1689191227,"timezone":{"string":"America/Chicago"},"user_id":"0123456789abcdef01234567","version":"1"}
+{
+  "abort_log" : {
+    "string" : "abort_log"
+  },
+  "abort_type" : {
+    "string" : "liquid_abort_message"
+  },
+  "ad_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "ad_id_type" : {
+    "string" : "ios_idfa"
+  },
+  "ad_tracking_enabled" : {
+    "boolean" : true
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "app_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "browser" : {
+    "string" : "Chrome Mobile iOS"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "card_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "carrier" : {
+    "string" : "carrier"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "dispatch_id" : {
+    "string" : "639a35d192b0df004d06514c"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  },
+  "os_version" : {
+    "string" : "17.6.1"
+  },
+  "platform" : {
+    "string" : "android"
+  },
+  "resolution" : {
+    "string" : "resolution"
+  },
+  "send_id" : {
+    "string" : "send_id"
+  },
+  "time" : 2033802504,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "user_id" : "639a35d192b0df004d06514c",
+  "version" : "version"
+}

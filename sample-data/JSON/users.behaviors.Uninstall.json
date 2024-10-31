@@ -1,1 +1,15 @@
-{"id":"6de26c87-8715-4192-bfc7-9a4ff6111f92","user_id":"0123456789abcdef01234567","external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"device_id":{"string":"b90e2565-12c5-3837-a1e2-d5245d311108"},"app_id":"5b70b046-7e8f-47f0-a362-9fd568dafa6d","time":1689191227}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

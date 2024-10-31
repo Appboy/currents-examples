@@ -1,1 +1,12 @@
-{"id":"75eed8bb-202b-4995-8797-fee42989e82e","user_id":"0123456789abcdef01234567","external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"time":1689191227,"source":"87f09748-9dd6-45a1-a327-8653b77ebbe8"}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "time" : 2033802504,
+  "source" : "source",
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

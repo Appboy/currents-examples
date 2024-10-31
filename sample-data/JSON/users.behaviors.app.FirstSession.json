@@ -1,1 +1,32 @@
-{"id":"17bf2268-30c6-4916-bab4-f72d1e9776af","user_id":"0123456789abcdef01234567","external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"app_id":"87f09748-9dd6-45a1-a327-8653b77ebbe8","time":1689191227,"session_id":"b1234567-89ab-cdef-0123-456789abcdef","gender":null,"country":null,"timezone":{"string":"America/Chicago"},"language":null,"device_id":{"string":"b90e2565-12c5-3837-a1e2-d5245d311108"},"sdk_version":null,"platform":{"string":"ios"},"os_version":{"string":"staging"},"device_model":{"string":"iPhone 7 Plus"}}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "session_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "gender" : null,
+  "country" : null,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "language" : null,
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "sdk_version" : null,
+  "platform" : {
+    "string" : "android"
+  },
+  "os_version" : {
+    "string" : "17.6.1"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

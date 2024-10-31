@@ -1,0 +1,30 @@
+{
+  "event_type" : "users.messages.featureflag.Impression",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "browser" : "Chrome Mobile iOS",
+    "campaign_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "campaign_name" : "CAMPAIGN_NAME",
+    "canvas_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_name" : "CANVAS_NAME",
+    "canvas_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_step_name" : "CANVAS_STEP_NAME",
+    "canvas_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_variation_name" : "CANVAS_VARIATION_NAME",
+    "device_model" : "device_model",
+    "feature_flag_id_name" : "feature_flag_id_name",
+    "message_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "message_variation_name" : "MESSAGE_VARIATION_NAME",
+    "os_version" : "17.6.1",
+    "platform" : "android"
+  },
+  "time" : 2033802504,
+  "user" : {
+    "device_id" : "device_id",
+    "external_user_id" : "external_user_id",
+    "timezone" : "America/New_York",
+    "user_id" : "639a35d192b0df004d06514c"
+  }
+}

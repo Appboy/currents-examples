@@ -1,1 +1,64 @@
-{"id":"3c5d3dfd-92b1-48df-a523-27beba399aef","user_id":"0123456789abcdef01234567","external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"email_address":{"string":"test@test.com"},"phone_number":{"string":"+16462345678"},"app_id":{"string":"01234567-89ab-cdef-0123-456789abcdef"},"campaign_id":{"string":"11234567-89ab-cdef-0123-456789abcdef"},"campaign_name":{"string":"Test Campaign 11234567-89ab-cdef-0123-456789abcdef"},"message_variation_id":{"string":"c1234567-89ab-cdef-0123-456789abcdef"},"message_variation_name":{"string":"Test Message Variation"},"canvas_id":{"string":"87f09748-9dd6-45a1-a327-8653b77ebbe8"},"canvas_name":{"string":"Test Canvas 21234567-89ab-cdef-0123-456789abcdef"},"canvas_variation_id":{"string":"31234567-89ab-cdef-0123-456789abcdef"},"canvas_variation_name":{"string":"Test Canvas Variation Name 1115597884"},"canvas_step_id":{"string":"41234567-89ab-cdef-0123-456789abcdef"},"canvas_step_name":{"string":"Test Canvas Step Name 41234567-89ab-cdef-0123-456789abcdef"},"subscription_group_id":"41234567-89ab-cdef-0123-456789abcdef","subscription_status":"subscribed","channel":{"string":"email"},"time":1689191227,"timezone":{"string":"America/Chicago"},"send_id":{"string":"f123456789abcdef01234567"},"state_change_source":{"string":"r"}}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "email_address" : {
+    "string" : "example@braze.com"
+  },
+  "phone_number" : {
+    "string" : "+1234567890"
+  },
+  "app_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  },
+  "subscription_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "subscription_status" : "Subscribed",
+  "channel" : {
+    "string" : "email"
+  },
+  "time" : 2033802504,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "send_id" : {
+    "string" : "send_id"
+  },
+  "state_change_source" : {
+    "string" : "REST API"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

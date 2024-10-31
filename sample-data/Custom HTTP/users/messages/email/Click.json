@@ -1,27 +1,40 @@
 {
-  "event_type": "users.messages.email.Click",
-  "id": "a1234567-89ab-cdef-0123-456789abcdef",
-  "time": 1477502783,
-  "user": {
-    "user_id": "0123456789abcdef01234567",
-    "external_user_id": "user_id",
-    "timezone": "America/Chicago"
+  "event_type" : "users.messages.email.Click",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "browser" : "Chrome Mobile iOS",
+    "campaign_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "campaign_name" : "CAMPAIGN_NAME",
+    "canvas_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_name" : "CANVAS_NAME",
+    "canvas_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_step_name" : "CANVAS_STEP_NAME",
+    "canvas_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_variation_name" : "CANVAS_VARIATION_NAME",
+    "device_class" : "desktop",
+    "device_model" : "device_model",
+    "device_os" : "Android",
+    "dispatch_id" : "639a35d192b0df004d06514c",
+    "email_address" : "example@braze.com",
+    "esp" : "SendGrid",
+    "from_domain" : "braze.com",
+    "ip_pool" : "ip_pool",
+    "is_amp" : true,
+    "link_alias" : "link_alias",
+    "link_id" : "link_id",
+    "mailbox_provider" : "mailbox_provider",
+    "message_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "message_variation_name" : "MESSAGE_VARIATION_NAME",
+    "send_id" : "send_id",
+    "url" : "url",
+    "user_agent" : "Mozilla/5.0"
   },
-  "properties": {
-    "campaign_id": "11234567-89ab-cdef-0123-456789abcdef",
-    "campaign_name": "Test Campaign",
-    "message_variation_id": "c1234567-89ab-cdef-0123-456789abcdef",
-    "message_variation_name": "Test Message Variation",
-    "send_id": "f123456789abcdef01234567",
-    "dispatch_id": "12345qwert",
-    "email_address": "test@test.com",
-    "url": "https://www.google.com/",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
-    "ip_pool": "braze_transactional",
-    "link_id": "7recnalw8xjr",
-    "link_alias": "google_link",
-    "esp": "sparkgrid",
-    "from_domain": "some.com",
-    "is_amp": false
+  "time" : 2033802504,
+  "user" : {
+    "device_id" : "device_id",
+    "external_user_id" : "external_user_id",
+    "timezone" : "America/New_York",
+    "user_id" : "639a35d192b0df004d06514c"
   }
 }

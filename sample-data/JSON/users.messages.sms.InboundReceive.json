@@ -1,1 +1,53 @@
-{"id":"387f7c0b-42e7-431a-b763-665a294e957a","user_id":{"string":"0123456789abcdef01234567"},"external_user_id":{"string":"e7986965-2444-4f2b-8d89-041e7adad149"},"app_group_id":"abcdef000001000000000000-api","time":1689191227,"user_phone_number":"+12125551212","subscription_group_id":{"string":"11234567-89ab-cdef-0123-456789abcdef-api"},"inbound_phone_number":"+12122223333","action":"Subscribed","message_body":"START I love your brand!!!","media_urls":{"array":[{"string":"https://api.twilio.com/2010-04-01/Accounts/ACdf8fed53dc700560ed78aac5e1eeec77/Messages/MM5b988d85d68d6565f4ecea9702a2436e/Media/MEa25d638a12f1a7daf21851dcbcf9b39b"}]},"campaign_id":{"string":"87f09748-9dd6-45a1-a327-8653b77ebbe8"},"campaign_name":{"string":"Test Campaign 11234567-89ab-cdef-0123-456789abcdef"},"message_variation_id":{"string":"c1234567-89ab-cdef-0123-456789abcdef"},"message_variation_name":{"string":"Test Message Variation"},"canvas_id":null,"canvas_name":null,"canvas_variation_id":null,"canvas_variation_name":null,"canvas_step_id":null,"canvas_step_name":null}
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : {
+    "string" : "639a35d192b0df004d06514c"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "user_phone_number" : "+1234567890",
+  "subscription_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "inbound_phone_number" : "+1234567890",
+  "action" : "Subscribed",
+  "message_body" : "message_body",
+  "media_urls" : {
+    "array" : [ {
+      "string" : "media_urls"
+    } ]
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_name" : {
+    "string" : "CAMPAIGN_NAME"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_name" : {
+    "string" : "MESSAGE_VARIATION_NAME"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_name" : {
+    "string" : "CANVAS_NAME"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "CANVAS_VARIATION_NAME"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_name" : {
+    "string" : "CANVAS_STEP_NAME"
+  }
+}
