@@ -1,0 +1,58 @@
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "time" : 2033802504,
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "url" : "url",
+  "short_url" : "short_url",
+  "user_agent" : {
+    "string" : "Mozilla/5.0"
+  },
+  "user_phone_number" : {
+    "string" : "+1234567890"
+  },
+  "campaign_name" : {
+    "string" : "campaign_name"
+  },
+  "message_variation_name" : {
+    "string" : "message_variation_name"
+  },
+  "canvas_name" : {
+    "string" : "canvas_name"
+  },
+  "canvas_variation_name" : {
+    "string" : "canvas_variation_name"
+  },
+  "canvas_step_name" : {
+    "string" : "canvas_step_name"
+  }
+}

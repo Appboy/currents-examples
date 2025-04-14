@@ -4,11 +4,11 @@
   "properties" : {
     "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "canvas_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "canvas_name" : "CANVAS_NAME",
+    "canvas_name" : "canvas_name",
     "canvas_step_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "canvas_step_name" : "CANVAS_STEP_NAME",
+    "canvas_step_name" : "canvas_step_name",
     "canvas_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "canvas_variation_name" : "CANVAS_VARIATION_NAME",
+    "canvas_variation_name" : "canvas_variation_name",
     "in_control_group" : true
   },
   "time" : 2033802504,

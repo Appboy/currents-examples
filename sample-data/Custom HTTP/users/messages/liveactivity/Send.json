@@ -1,0 +1,16 @@
+{
+  "event_type" : "users.messages.liveactivity.Send",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "activity_attributes_type" : "activity_attributes_type",
+    "activity_id" : "activity_id",
+    "live_activity_event_type" : "start",
+    "push_to_start_token" : "push_to_start_token",
+    "update_token" : "update_token"
+  },
+  "time" : 2033802504,
+  "user" : {
+    "external_user_id" : "external_user_id",
+    "user_id" : "639a35d192b0df004d06514c"
+  }
+}

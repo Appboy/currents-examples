@@ -69,18 +69,18 @@
   },
   "user_id" : "639a35d192b0df004d06514c",
   "campaign_name" : {
-    "string" : "CAMPAIGN_NAME"
+    "string" : "campaign_name"
   },
   "canvas_name" : {
-    "string" : "CANVAS_NAME"
+    "string" : "canvas_name"
   },
   "canvas_step_name" : {
-    "string" : "CANVAS_STEP_NAME"
+    "string" : "canvas_step_name"
   },
   "canvas_variation_name" : {
-    "string" : "CANVAS_VARIATION_NAME"
+    "string" : "canvas_variation_name"
   },
   "message_variation_name" : {
-    "string" : "MESSAGE_VARIATION_NAME"
+    "string" : "message_variation_name"
   }
 }

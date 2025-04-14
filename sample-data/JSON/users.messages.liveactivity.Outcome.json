@@ -1,0 +1,26 @@
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "time" : 2033802504,
+  "activity_id" : {
+    "string" : "activity_id"
+  },
+  "activity_attributes_type" : {
+    "string" : "activity_attributes_type"
+  },
+  "push_to_start_token" : {
+    "string" : "push_to_start_token"
+  },
+  "update_token" : {
+    "string" : "update_token"
+  },
+  "live_activity_event_type" : {
+    "string" : "start"
+  },
+  "live_activity_event_outcome" : {
+    "string" : "Success"
+  }
+}

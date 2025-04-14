@@ -1,0 +1,16 @@
+{
+  "event_type" : "users.behaviors.liveactivity.UpdateTokenChange",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "activity_id" : "activity_id",
+    "ios_push_token_apns_gateway" : 1,
+    "push_token_state_change_type" : "add",
+    "update_token" : "update_token"
+  },
+  "time" : 2033802504,
+  "user" : {
+    "device_id" : "device_id",
+    "external_user_id" : "external_user_id",
+    "user_id" : "639a35d192b0df004d06514c"
+  }
+}
