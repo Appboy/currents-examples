@@ -12,19 +12,19 @@
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_name" : {
-    "string" : "CANVAS_NAME"
+    "string" : "canvas_name"
   },
   "canvas_variation_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_variation_name" : {
-    "string" : "CANVAS_VARIATION_NAME"
+    "string" : "canvas_variation_name"
   },
   "canvas_step_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_step_name" : {
-    "string" : "CANVAS_STEP_NAME"
+    "string" : "canvas_step_name"
   },
   "experiment_step_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
@@ -33,12 +33,12 @@
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "experiment_split_name" : {
-    "string" : "EXPERIMENT_SPLIT_NAME"
+    "string" : "experiment_split_name"
   },
   "conversion_behavior_index" : {
     "int" : 1
   },
   "conversion_behavior" : {
-    "string" : "CONVERSION_BEHAVIOR"
+    "string" : "conversion_behavior"
   }
 }

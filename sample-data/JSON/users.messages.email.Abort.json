@@ -12,13 +12,13 @@
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "campaign_name" : {
-    "string" : "CAMPAIGN_NAME"
+    "string" : "campaign_name"
   },
   "canvas_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_name" : {
-    "string" : "CANVAS_NAME"
+    "string" : "canvas_name"
   },
   "canvas_step_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
@@ -27,13 +27,13 @@
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_step_name" : {
-    "string" : "CANVAS_STEP_NAME"
+    "string" : "canvas_step_name"
   },
   "canvas_variation_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_variation_name" : {
-    "string" : "CANVAS_VARIATION_NAME"
+    "string" : "canvas_variation_name"
   },
   "device_id" : {
     "string" : "device_id"
@@ -53,7 +53,7 @@
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "message_variation_name" : {
-    "string" : "MESSAGE_VARIATION_NAME"
+    "string" : "message_variation_name"
   },
   "send_id" : {
     "string" : "send_id"

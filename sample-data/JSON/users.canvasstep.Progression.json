@@ -32,12 +32,12 @@
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
   "canvas_name" : {
-    "string" : "CANVAS_NAME"
+    "string" : "canvas_name"
   },
   "canvas_variation_name" : {
-    "string" : "CANVAS_VARIATION_NAME"
+    "string" : "canvas_variation_name"
   },
   "canvas_step_name" : {
-    "string" : "CANVAS_STEP_NAME"
+    "string" : "canvas_step_name"
   }
 }
