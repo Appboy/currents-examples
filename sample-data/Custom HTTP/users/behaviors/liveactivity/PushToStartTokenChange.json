@@ -3,6 +3,8 @@
   "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
   "properties" : {
     "activity_attributes_type" : "activity_attributes_type",
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "ios_push_token_apns_gateway" : 1,
     "push_to_start_token" : "push_to_start_token",
     "push_token_state_change_type" : "add"
