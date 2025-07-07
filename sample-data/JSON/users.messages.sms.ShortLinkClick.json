@@ -48,5 +48,11 @@
   },
   "user_phone_number" : {
     "string" : "+1234567890"
+  },
+  "is_suspected_bot_click" : {
+    "boolean" : true
+  },
+  "suspected_bot_click_reason" : {
+    "array" : [ "suspected_bot_click_reason" ]
   }
 }

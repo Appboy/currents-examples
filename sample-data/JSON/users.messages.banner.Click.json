@@ -1,0 +1,77 @@
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "time" : 2033802504,
+  "app_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "gender" : {
+    "string" : "M"
+  },
+  "country" : {
+    "string" : "country"
+  },
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "language" : {
+    "string" : "en"
+  },
+  "device_id" : {
+    "string" : "device_id"
+  },
+  "sdk_version" : {
+    "string" : "sdk_version"
+  },
+  "platform" : {
+    "string" : "android"
+  },
+  "os_version" : {
+    "string" : "17.6.1"
+  },
+  "device_model" : {
+    "string" : "device_model"
+  },
+  "resolution" : {
+    "string" : "resolution"
+  },
+  "carrier" : {
+    "string" : "carrier"
+  },
+  "browser" : {
+    "string" : "Chrome Mobile iOS"
+  },
+  "button_id" : {
+    "string" : "1"
+  },
+  "ad_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "ad_id_type" : {
+    "string" : "ios_idfa"
+  },
+  "ad_tracking_enabled" : {
+    "boolean" : true
+  },
+  "banner_placement_id" : {
+    "string" : "some_placement_id"
+  },
+  "campaign_name" : {
+    "string" : "campaign_name"
+  },
+  "message_variation_name" : {
+    "string" : "message_variation_name"
+  }
+}
