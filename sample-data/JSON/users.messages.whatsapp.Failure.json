@@ -61,5 +61,14 @@
   "provider_error_title" : "provider_error_title",
   "send_id" : {
     "string" : "send_id"
+  },
+  "message_id" : {
+    "string" : "wamid.HBgLMTIzNjc3NzA3NjcVAgBRGBIzQzA3MTYySjlCQTYyRUUyNUQB"
+  },
+  "template_name" : {
+    "string" : "fall_promo_code_FALLFLIER"
+  },
+  "flow_id" : {
+    "string" : "1899152394277523"
   }
 }

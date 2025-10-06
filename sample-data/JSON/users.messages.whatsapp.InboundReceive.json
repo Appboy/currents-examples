@@ -65,5 +65,23 @@
       "string" : "media_urls"
     } ]
   },
-  "action" : "Subscribed"
+  "action" : "Subscribed",
+  "catalog_id" : {
+    "string" : "catalog_id"
+  },
+  "product_id" : {
+    "string" : "product_id"
+  },
+  "flow_id" : {
+    "string" : "1899152394277523"
+  },
+  "flow_response_json" : {
+    "string" : "{\"stringProperty\": \"flow_response_json\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}"
+  },
+  "message_id" : {
+    "string" : "wamid.HBgLMTIzNjc3NzA3NjcVAgBRGBIzQzA3MTYySjlCQTYyRUUyNUQB"
+  },
+  "in_reply_to" : {
+    "string" : "wamid.HBgLMTIzNjc3NzA3NjcVAgBRGBIzQzA3MTYySjlCQTYyRUUyNUQB"
+  }
 }
