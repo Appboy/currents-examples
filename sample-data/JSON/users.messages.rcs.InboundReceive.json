@@ -1,0 +1,53 @@
+{
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "user_id" : "639a35d192b0df004d06514c",
+  "action" : "Subscribed",
+  "campaign_name" : {
+    "string" : "campaign_name"
+  },
+  "canvas_name" : {
+    "string" : "canvas_name"
+  },
+  "canvas_step_name" : {
+    "string" : "canvas_step_name"
+  },
+  "media_urls" : {
+    "array" : [ {
+      "string" : "media_urls"
+    } ]
+  },
+  "message_variation_name" : {
+    "string" : "message_variation_name"
+  },
+  "send_id" : {
+    "string" : "send_id"
+  },
+  "user_phone_number" : "+1234567890",
+  "subscription_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "message_body" : "message_body",
+  "to_rcs_sender" : "to_rcs_sender",
+  "message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_step_message_variation_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "campaign_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  }
+}

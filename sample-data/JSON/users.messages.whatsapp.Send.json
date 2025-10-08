@@ -59,5 +59,14 @@
   },
   "send_id" : {
     "string" : "send_id"
+  },
+  "flow_id" : {
+    "string" : "1899152394277523"
+  },
+  "template_name" : {
+    "string" : "fall_promo_code_FALLFLIER"
+  },
+  "message_id" : {
+    "string" : "wamid.HBgLMTIzNjc3NzA3NjcVAgBRGBIzQzA3MTYySjlCQTYyRUUyNUQB"
   }
 }

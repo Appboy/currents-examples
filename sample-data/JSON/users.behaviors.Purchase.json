@@ -21,7 +21,7 @@
     "string" : "device_id"
   },
   "product_id" : "product_id",
-  "price" : 3.14,
+  "price" : 3.140000104904175,
   "currency" : "USD",
   "properties" : "{\"stringProperty\": \"properties\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}",
   "ad_id" : {
