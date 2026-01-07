@@ -21,6 +21,7 @@
     "message_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "message_variation_name" : "message_variation_name",
     "platform" : "android",
+    "push_token" : "push_token",
     "send_id" : "send_id"
   },
   "time" : 2033802504,

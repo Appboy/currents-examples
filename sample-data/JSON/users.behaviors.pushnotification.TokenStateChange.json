@@ -11,6 +11,9 @@
   "platform" : {
     "string" : "android"
   },
+  "push_token" : {
+    "string" : "push_token"
+  },
   "push_token_created_at" : {
     "int" : 1
   },
