@@ -38,7 +38,9 @@
   "user_agent" : {
     "string" : "Mozilla/5.0"
   },
-  "user_phone_number" : "+1234567890",
+  "user_phone_number" : {
+    "string" : "+1234567890"
+  },
   "message_variation_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
   },
@@ -66,5 +68,8 @@
   },
   "subscription_group_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "canvas_variation_name" : {
+    "string" : "canvas_variation_name"
   }
 }
