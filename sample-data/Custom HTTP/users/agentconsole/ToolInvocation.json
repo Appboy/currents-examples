@@ -1,0 +1,16 @@
+{
+  "event_type" : "agentconsole.ToolInvocation",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "agent_id" : "agent_id",
+    "agent_name" : "agent_name",
+    "duration" : 1,
+    "invocation_source" : "invocation_source",
+    "is_error" : true,
+    "tool_arguments" : "{\"stringProperty\": \"tool_arguments\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}",
+    "tool_call_id" : "tool_call_id",
+    "tool_name" : "tool_name"
+  },
+  "time" : 2033802504,
+  "user" : { }
+}
