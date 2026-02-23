@@ -10,5 +10,8 @@
   "tool_arguments" : "{\"stringProperty\": \"tool_arguments\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}",
   "invocation_source" : {
     "string" : "invocation_source"
+  },
+  "request_id" : {
+    "string" : "request_id"
   }
 }

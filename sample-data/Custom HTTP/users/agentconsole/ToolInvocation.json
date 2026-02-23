@@ -7,6 +7,7 @@
     "duration" : 1,
     "invocation_source" : "invocation_source",
     "is_error" : true,
+    "request_id" : "request_id",
     "tool_arguments" : "{\"stringProperty\": \"tool_arguments\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}",
     "tool_call_id" : "tool_call_id",
     "tool_name" : "tool_name"

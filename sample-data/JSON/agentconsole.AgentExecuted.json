@@ -51,5 +51,8 @@
   },
   "invocation_source" : {
     "string" : "invocation_source"
+  },
+  "error" : {
+    "string" : "Appboy::Communication::SMS::Events::Rejection"
   }
 }
