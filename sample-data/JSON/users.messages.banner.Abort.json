@@ -63,7 +63,7 @@
     "boolean" : true
   },
   "abort_type" : {
-    "string" : "liquid_abort_message"
+    "string" : "abort_type"
   },
   "abort_log" : {
     "string" : "abort_log"
