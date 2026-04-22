@@ -1,7 +1,9 @@
 {
   "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
   "time" : 2033802504,
-  "user_phone_number" : "+1234567890",
+  "user_phone_number" : {
+    "string" : "+1234567890"
+  },
   "user_id" : {
     "string" : "639a35d192b0df004d06514c"
   },
@@ -83,5 +85,8 @@
   },
   "in_reply_to" : {
     "string" : "wamid.HBgLMTIzNjc3NzA3NjcVAgBRGBIzQzA3MTYySjlCQTYyRUUyNUQB"
+  },
+  "bsuid" : {
+    "string" : "bsuid"
   }
 }

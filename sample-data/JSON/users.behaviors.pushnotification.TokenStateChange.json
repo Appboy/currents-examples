@@ -1,18 +1,30 @@
 {
   "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
   "time" : 2033802504,
+  "app_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "time_ms" : {
+    "long" : 2033802504999
+  },
   "user_id" : "639a35d192b0df004d06514c",
-  "external_user_id" : {
-    "string" : "external_user_id"
-  },
-  "sdk_version" : {
-    "string" : "sdk_version"
-  },
   "platform" : {
     "string" : "android"
   },
   "push_token" : {
     "string" : "push_token"
+  },
+  "sdk_version" : {
+    "string" : "sdk_version"
+  },
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "push_token_device_id" : {
+    "string" : "push_token_device_id"
   },
   "push_token_created_at" : {
     "int" : 1
@@ -20,37 +32,25 @@
   "push_token_updated_at" : {
     "int" : 1
   },
-  "push_token_foreground_push_disabled" : {
-    "boolean" : true
-  },
-  "push_token_device_id" : {
-    "string" : "push_token_device_id"
-  },
-  "push_token_provisionally_opted_in" : {
-    "boolean" : true
-  },
-  "ios_push_token_apns_gateway" : {
-    "int" : 1
+  "web_push_token_user_auth" : {
+    "string" : "web_push_token_user_auth"
   },
   "web_push_token_public_key" : {
     "string" : "web_push_token_public_key"
   },
-  "web_push_token_user_auth" : {
-    "string" : "web_push_token_user_auth"
-  },
-  "web_push_token_vapid_public_key" : {
-    "string" : "web_push_token_vapid_public_key"
+  "ios_push_token_apns_gateway" : {
+    "int" : 1
   },
   "push_token_state_change_type" : {
     "string" : "add"
   },
-  "app_group_id" : {
-    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  "web_push_token_vapid_public_key" : {
+    "string" : "web_push_token_vapid_public_key"
   },
-  "app_id" : {
-    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  "push_token_provisionally_opted_in" : {
+    "boolean" : true
   },
-  "time_ms" : {
-    "long" : 2
+  "push_token_foreground_push_disabled" : {
+    "boolean" : true
   }
 }
