@@ -61,5 +61,8 @@
   },
   "canvas_step_name" : {
     "string" : "canvas_step_name"
+  },
+  "bsuid" : {
+    "string" : "bsuid"
   }
 }

@@ -13,7 +13,7 @@
     "push_token_provisionally_opted_in" : true,
     "push_token_state_change_type" : "add",
     "push_token_updated_at" : 1,
-    "time_ms" : 2,
+    "time_ms" : 2033802504999,
     "web_push_token_public_key" : "web_push_token_public_key",
     "web_push_token_user_auth" : "web_push_token_user_auth",
     "web_push_token_vapid_public_key" : "web_push_token_vapid_public_key"

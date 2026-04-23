@@ -61,5 +61,8 @@
   },
   "abort_log" : {
     "string" : "abort_log"
+  },
+  "bsuid" : {
+    "string" : "bsuid"
   }
 }

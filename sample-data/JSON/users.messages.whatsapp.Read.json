@@ -68,5 +68,8 @@
   },
   "flow_id" : {
     "string" : "1899152394277523"
+  },
+  "bsuid" : {
+    "string" : "bsuid"
   }
 }
