@@ -1,0 +1,52 @@
+{
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "time_ms" : 2033802504999,
+  "user_id" : "639a35d192b0df004d06514c",
+  "app_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "update_source" : "REST",
+  "archived" : {
+    "boolean" : true
+  },
+  "first_name" : {
+    "string" : "Jack"
+  },
+  "last_name" : {
+    "string" : "Sparrow"
+  },
+  "email_address" : {
+    "string" : "example@braze.com"
+  },
+  "gender" : {
+    "string" : "M"
+  },
+  "phone_number" : {
+    "string" : "+14155552671"
+  },
+  "dob" : {
+    "string" : "1996-04-13T00:00:00.000+00:00"
+  },
+  "timezone" : {
+    "string" : "America/New_York"
+  },
+  "home_city" : {
+    "string" : "New York"
+  },
+  "country" : {
+    "string" : "country"
+  },
+  "language" : {
+    "string" : "en"
+  },
+  "custom_attributes" : {
+    "string" : "{\"stringProperty\": \"custom_attributes\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}"
+  }
+}
