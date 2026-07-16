@@ -94,5 +94,8 @@
   },
   "canvas_variation_name" : {
     "string" : "canvas_variation_name"
+  },
+  "is_unique" : {
+    "boolean" : true
   }
 }

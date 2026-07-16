@@ -1,0 +1,15 @@
+{
+  "event_type" : "contentoptimizer.ComponentStore",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "combination_token" : "0_0_0",
+    "content" : "content",
+    "content_optimizer_step_id" : "639a35d192b0df004d06514c",
+    "is_active" : true
+  },
+  "time" : 2033802504,
+  "user" : {
+    "external_user_id" : "external_user_id"
+  }
+}

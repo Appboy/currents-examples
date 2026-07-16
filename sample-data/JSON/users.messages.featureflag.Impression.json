@@ -82,5 +82,8 @@
   },
   "message_variation_name" : {
     "string" : "message_variation_name"
+  },
+  "is_unique" : {
+    "boolean" : true
   }
 }

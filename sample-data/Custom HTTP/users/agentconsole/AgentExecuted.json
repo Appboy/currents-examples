@@ -27,6 +27,7 @@
     "provider_request_id" : "provider_request_id",
     "reasoning_tokens" : 1,
     "request_id" : "request_id",
+    "thinking_level" : "thinking_level",
     "total_tokens" : 1
   },
   "time" : 2033802504,
