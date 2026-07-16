@@ -54,5 +54,8 @@
   },
   "error" : {
     "string" : "Appboy::Communication::SMS::Events::Rejection"
+  },
+  "thinking_level" : {
+    "string" : "thinking_level"
   }
 }
