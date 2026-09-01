@@ -80,5 +80,8 @@
   },
   "mailbox_provider" : {
     "string" : "mailbox_provider"
+  },
+  "send_time" : {
+    "int" : 2033802504
   }
 }

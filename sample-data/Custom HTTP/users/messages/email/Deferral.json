@@ -22,6 +22,7 @@
     "message_variation_name" : "message_variation_name",
     "recipient_domain" : "example.com",
     "send_id" : "send_id",
+    "send_time" : 2033802504,
     "sending_ip" : "sending_ip"
   },
   "time" : 2033802504,

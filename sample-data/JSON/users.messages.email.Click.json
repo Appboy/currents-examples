@@ -92,5 +92,14 @@
   },
   "suspected_bot_click_reason" : {
     "array" : [ "suspected_bot_click_reason" ]
+  },
+  "send_time" : {
+    "int" : 2033802504
+  },
+  "has_url_parameters" : {
+    "boolean" : true
+  },
+  "link_aliasing_enabled" : {
+    "boolean" : true
   }
 }

@@ -64,5 +64,8 @@
   },
   "bsuid" : {
     "string" : "bsuid"
+  },
+  "message_extras" : {
+    "string" : "{\"Locale\":\"en-US\"}"
   }
 }
