@@ -69,5 +69,11 @@
   },
   "locale_key" : {
     "string" : "en-us"
+  },
+  "click_url" : {
+    "string" : "https://example.com/promo/summer-sale"
+  },
+  "is_archived" : {
+    "boolean" : false
   }
 }

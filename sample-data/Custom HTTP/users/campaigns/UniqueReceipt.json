@@ -1,0 +1,24 @@
+{
+  "event_type" : "users.campaigns.UniqueReceipt",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "app_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "campaign_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "campaign_name" : "campaign_name",
+    "country" : "country",
+    "dispatch_id" : "639a35d192b0df004d06514c",
+    "gender" : "M",
+    "language" : "en",
+    "message_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "message_variation_name" : "message_variation_name",
+    "send_id" : "send_id"
+  },
+  "time" : 2033802504,
+  "user" : {
+    "device_id" : "device_id",
+    "external_user_id" : "external_user_id",
+    "timezone" : "America/New_York",
+    "user_id" : "639a35d192b0df004d06514c"
+  }
+}
