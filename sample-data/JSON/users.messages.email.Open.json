@@ -83,5 +83,8 @@
   },
   "send_time" : {
     "int" : 2033802504
+  },
+  "data_object_provenance" : {
+    "string" : "{\"o\":[1,2,3],\"u\":[4,5,6],\"r\":[7,8,9]}"
   }
 }

@@ -25,5 +25,8 @@
   "in_control_group" : true,
   "app_group_id" : {
     "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "data_object_provenance" : {
+    "string" : "{\"o\":[1,2,3],\"u\":[4,5,6],\"r\":[7,8,9]}"
   }
 }
