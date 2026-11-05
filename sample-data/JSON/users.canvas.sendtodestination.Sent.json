@@ -37,5 +37,8 @@
     "string" : "destination_name"
   },
   "destination_variation_name" : "destination_variation_name",
-  "destination_variant_type" : "destination_variant_type"
+  "destination_variant_type" : "destination_variant_type",
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
+  }
 }

@@ -54,5 +54,8 @@
   },
   "suspected_bot_click_reason" : {
     "array" : [ "suspected_bot_click_reason" ]
+  },
+  "ip_address" : {
+    "string" : "ip_address"
   }
 }

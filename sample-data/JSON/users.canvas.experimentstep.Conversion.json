@@ -40,5 +40,8 @@
   },
   "conversion_behavior" : {
     "string" : "conversion_behavior"
+  },
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
   }
 }

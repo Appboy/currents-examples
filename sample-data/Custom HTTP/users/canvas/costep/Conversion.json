@@ -3,6 +3,7 @@
   "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
   "properties" : {
     "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "canvas_entry_id" : "canvas_entry_id",
     "channel" : "email",
     "combination_token" : "0_0_0",
     "conversion_type" : "open",

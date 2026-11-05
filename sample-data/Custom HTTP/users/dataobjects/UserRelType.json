@@ -1,0 +1,20 @@
+{
+  "event_type" : "dataobjects.UserRelType",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "cardinality" : "cardinality",
+    "created_at" : 2033802504,
+    "deleted" : true,
+    "deleted_at" : 2033802504,
+    "do_type_name" : "do_type_name",
+    "forward_name" : "forward_name",
+    "forward_name_plural" : "forward_name_plural",
+    "rel_kind" : "rel_kind",
+    "reverse_name" : "reverse_name",
+    "reverse_name_plural" : "reverse_name_plural",
+    "updated_at" : 2033802504
+  },
+  "time" : 2033802504,
+  "user" : { }
+}

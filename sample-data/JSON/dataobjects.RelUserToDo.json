@@ -1,0 +1,31 @@
+{
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "user_id" : "639a35d192b0df004d06514c",
+  "external_user_id" : {
+    "string" : "external_user_id"
+  },
+  "deleted" : {
+    "boolean" : true
+  },
+  "do_type_name" : "do_type_name",
+  "object_id" : "object_id",
+  "rel_kind" : {
+    "string" : "rel_kind"
+  },
+  "created_at" : {
+    "int" : 2033802504
+  },
+  "updated_at" : {
+    "int" : 2033802504
+  },
+  "deleted_at" : {
+    "int" : 2033802504
+  },
+  "attributes" : {
+    "string" : "{\"stringProperty\": \"attributes\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}"
+  }
+}

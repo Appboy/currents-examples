@@ -21,6 +21,7 @@
     "esp" : "SendGrid",
     "from_domain" : "braze.com",
     "has_url_parameters" : true,
+    "ip_address" : "ip_address",
     "ip_pool" : "ip_pool",
     "is_amp" : true,
     "is_suspected_bot_click" : true,

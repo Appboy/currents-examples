@@ -43,5 +43,11 @@
   },
   "message_variation_name" : {
     "string" : "message_variation_name"
+  },
+  "is_daily_unique" : {
+    "boolean" : true
+  },
+  "is_total_unique" : {
+    "boolean" : true
   }
 }

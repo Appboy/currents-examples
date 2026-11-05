@@ -32,5 +32,8 @@
   "experiment_split_name" : {
     "string" : "experiment_split_name"
   },
-  "in_control_group" : true
+  "in_control_group" : true,
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
+  }
 }
