@@ -17,5 +17,8 @@
   "conversion_type" : {
     "string" : "open"
   },
-  "combination_token" : "0_0_0"
+  "combination_token" : "0_0_0",
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
+  }
 }

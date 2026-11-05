@@ -87,6 +87,9 @@
   "mailbox_provider" : {
     "string" : "mailbox_provider"
   },
+  "ip_address" : {
+    "string" : "ip_address"
+  },
   "is_suspected_bot_click" : {
     "boolean" : true
   },

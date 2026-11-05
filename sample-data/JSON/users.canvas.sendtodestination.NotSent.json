@@ -38,5 +38,8 @@
   },
   "reason" : {
     "string" : "reason"
+  },
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
   }
 }

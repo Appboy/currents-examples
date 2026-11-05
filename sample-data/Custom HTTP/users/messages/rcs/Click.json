@@ -14,6 +14,7 @@
     "element_label" : "element_label",
     "element_type" : "element_type",
     "interaction_type" : "interaction_type",
+    "ip_address" : "ip_address",
     "is_suspected_bot_click" : true,
     "message_variation_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "message_variation_name" : "message_variation_name",

@@ -15,7 +15,8 @@
     "device_model" : "device_model",
     "name" : "name",
     "os_version" : "17.6.1",
-    "platform" : "android"
+    "platform" : "android",
+    "received_at_ms" : 2033802504999
   },
   "time" : 2033802504,
   "user" : {

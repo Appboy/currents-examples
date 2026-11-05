@@ -1,0 +1,21 @@
+{
+  "event_type" : "dataobjects.UserRelTypeField",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "created_at" : 2033802504,
+    "deleted" : true,
+    "deleted_at" : 2033802504,
+    "display_label" : "display_label",
+    "do_type_name" : "do_type_name",
+    "format" : "format",
+    "json_type" : "json_type",
+    "name" : "name",
+    "position" : 1,
+    "rel_kind" : "rel_kind",
+    "required" : true,
+    "updated_at" : 2033802504
+  },
+  "time" : 2033802504,
+  "user" : { }
+}

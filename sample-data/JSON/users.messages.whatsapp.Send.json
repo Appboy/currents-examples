@@ -71,5 +71,8 @@
   },
   "bsuid" : {
     "string" : "bsuid"
+  },
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
   }
 }

@@ -23,5 +23,8 @@
   },
   "canvas_api_id" : null,
   "canvas_variation_api_id" : null,
-  "canvas_step_api_id" : null
+  "canvas_step_api_id" : null,
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
+  }
 }

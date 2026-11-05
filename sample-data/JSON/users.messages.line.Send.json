@@ -52,5 +52,8 @@
   },
   "timezone" : {
     "string" : "America/New_York"
+  },
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
   }
 }

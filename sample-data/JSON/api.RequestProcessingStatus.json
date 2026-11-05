@@ -1,0 +1,14 @@
+{
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "api_key_prefix" : "d9iw8ap1",
+  "api_key_name" : "Backfill automation",
+  "request_id" : "request_id",
+  "group_id" : {
+    "string" : "import-2026-08-19"
+  },
+  "status" : "completed",
+  "request_received_time" : "2026-08-19T19:59:59.512Z",
+  "final_completion_time" : "2026-08-19T20:00:04.127Z"
+}

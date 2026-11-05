@@ -1,0 +1,19 @@
+{
+  "event_type" : "dataobjects.RelDoToDo",
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "properties" : {
+    "app_group_id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "attributes" : "{\"stringProperty\": \"attributes\", \"numberProperty\": 1, \"listProperty\": [\"a\"]}",
+    "created_at" : 2033802504,
+    "deleted" : true,
+    "deleted_at" : 2033802504,
+    "from_object_id" : "from_object_id",
+    "from_type_name" : "from_type_name",
+    "rel_kind" : "rel_kind",
+    "to_object_id" : "to_object_id",
+    "to_type_name" : "to_type_name",
+    "updated_at" : 2033802504
+  },
+  "time" : 2033802504,
+  "user" : { }
+}

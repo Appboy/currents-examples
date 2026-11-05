@@ -61,5 +61,8 @@
   },
   "is_archived" : {
     "boolean" : false
+  },
+  "canvas_entry_id" : {
+    "string" : "canvas_entry_id"
   }
 }

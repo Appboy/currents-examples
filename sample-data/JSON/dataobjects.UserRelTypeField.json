@@ -1,0 +1,39 @@
+{
+  "app_group_id" : {
+    "string" : "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "id" : "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "time" : 2033802504,
+  "deleted" : {
+    "boolean" : true
+  },
+  "do_type_name" : "do_type_name",
+  "rel_kind" : {
+    "string" : "rel_kind"
+  },
+  "name" : "name",
+  "json_type" : {
+    "string" : "json_type"
+  },
+  "format" : {
+    "string" : "format"
+  },
+  "required" : {
+    "boolean" : true
+  },
+  "position" : {
+    "int" : 1
+  },
+  "display_label" : {
+    "string" : "display_label"
+  },
+  "created_at" : {
+    "int" : 2033802504
+  },
+  "updated_at" : {
+    "int" : 2033802504
+  },
+  "deleted_at" : {
+    "int" : 2033802504
+  }
+}
